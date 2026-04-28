@@ -160,10 +160,3 @@ Collection: predictions
 
 
 
-
-👉 Resume points  
-👉 Interview answers  
-
-Just say:
-
-👉 **“final interview prep”** 🔥
