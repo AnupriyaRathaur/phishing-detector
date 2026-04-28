@@ -73,7 +73,7 @@ Response:
   }
 }
 
-2. Batch Prediction
+5. Batch Prediction
 
 Endpoint:
 POST /api/predict/batch
@@ -116,7 +116,7 @@ Confusion Matrix
 [[300   3]
  [  5 350]]
 
-8. Feature Engineering
+7. Feature Engineering
 
 The following features are extracted:
 
